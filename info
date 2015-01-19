@@ -1,0 +1,1 @@
+Ahh very interesting. So by using the command git rm README in branch test, but not commiting it, when I switched back to branch master the README was also gone, and a git status showed that the deletion was still on stage.  So I could have committed that to branch master?? I think it best to make sure you have commited before switching between branches.
